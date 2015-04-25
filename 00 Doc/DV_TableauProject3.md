@@ -15,10 +15,9 @@ Those two tables are uploaded to Oracle Database, named UTDallas and UTSanAntoni
 UTSanAntonio is listed as primary data source, UTDallas is listed as secondary data source.
 
 Those two tables are blended by Department, Ethnic and Sex (Using Edit Relationship in Tableau)
+![](./UTDallas.png)
 
-![](./UTDallas.tiff)
-
-![](./UTSanAntonio.tiff)
+![](./UTSanAntonio.png)
 
 *********
 **Figure 1: Average Salary in Each Department**
@@ -33,7 +32,7 @@ Method:
 
 4. In Mark window, change the shape to Area.
 
-![](./DepAvgSal.tiff)
+![](./DepAvgSal.png)
 
   From Figure 1, we can see that the salary in different department varies. 
   
@@ -58,7 +57,7 @@ Method:
 
 6. In Marks window, change shape to Bar.
 
-![](./DepEthnic.tiff)
+![](./DepEthnic.png)
 
 From Figure 2, we can see that in both UT Dallas and UT San Antonio, the majority of employees are white.
 
@@ -82,7 +81,7 @@ Method:
 5. Change shape to Line.
 
 
-![](./FM.tiff)
+![](./FM.png)
 
 
 In Figure 3, the blue line indicates the number of Male employees, the red line indicates the number of Famele Employees.
@@ -111,7 +110,7 @@ Method:
 5. Drag CNT(SEX) to Size.
 
 
-![](./DepSexCnt.tiff)
+![](./DepSexCnt.png)
 
 *********
 **Figure 4: Professor Salary Comparison Table**
@@ -128,7 +127,7 @@ Method:
 
 5. Drag this sheet to Dashboard, edit the titles on top
 
-![](./ProfSal.tiff)
+![](./ProfSal.png)
 
 From Figure 5, we can see that generally, there is a trend that
 
